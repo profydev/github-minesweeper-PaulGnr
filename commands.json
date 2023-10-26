@@ -18,6 +18,12 @@
     "clear F4",
     "clear G4",
     "clear H4",
-    "clear D5"
+    "clear D5",
+    "flag D2",
+    "flag E3",
+    "flag H3",
+    "clear E2",
+    "clear F3",
+    "clear G3"
   ]
 }
