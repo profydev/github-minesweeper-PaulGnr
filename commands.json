@@ -33,6 +33,8 @@
     "flag F7",
     "clear E7",
     "flag E8",
-    "clear F8"
+    "clear F8",
+    "flag G8",
+    "end"
   ]
 }
