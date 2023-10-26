@@ -30,6 +30,8 @@
     "clear F1",
     "clear F2",
     "clear G2",
-    "clear H2"
+    "clear H2",
+    "flag B1",
+    "end",
   ]
 }
